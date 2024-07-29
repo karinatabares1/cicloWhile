@@ -6,7 +6,7 @@ public class Numeros {
 
 	        while (contador > 0) {
 	            System.out.println(contador);
-	            contador--;  // Decrementa el valor de contador en 1
+	            contador--; 
 	        }
 	    }
 }
